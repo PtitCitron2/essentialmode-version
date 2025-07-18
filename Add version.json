@@ -1,0 +1,10 @@
+{
+  "newVersion": "6.5.0",
+  "updated": false,
+  "startupmessage": "^2EssentialMode → Une mise à jour est disponible !",
+  "changes": "- Amélioration de la sécurité\n- Correction de bugs\n- Ajout du support ESX v1.9",
+  "updateLocation": "https://github.com/votre-utilisateur/essentialmode",
+  "uuid": "123e4567-e89b-12d3-a456-426614174000",
+  "extra": "^5INFO: ^7Pour plus d'informations, rejoignez notre Discord: discord.gg/votre-lien"
+}
+
