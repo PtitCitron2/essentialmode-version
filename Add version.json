@@ -1,5 +1,5 @@
 {
-  "newVersion": "6.5.0",
+  "newVersion": "6.4.2",
   "updated": false,
   "startupmessage": "^2EssentialMode → Une mise à jour est disponible !",
   "changes": "- Amélioration de la sécurité\n- Correction de bugs\n- Ajout du support ESX v1.9",
